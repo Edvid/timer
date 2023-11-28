@@ -1,4 +1,3 @@
-                                                                     #
 # A simple timer with URL parameters for settings
 
 A simple timer that uses URL parameters to change settings, making 
@@ -10,8 +9,7 @@ I have used other online timers for cooking before, but I had a list
 of features I missed:
 
 - If the alarm was missed, how much have I missed it by?
-- The alarm starts immedietly as I load the page. I want to only
-have to click the bookmark. I can reload the page if I want it reset.
+- The alarm starts immedietly as I load the page. I want to only have to click the bookmark. I can reload the page if I want it reset.
 
 # How to use
 
