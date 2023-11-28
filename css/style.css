@@ -1,0 +1,14 @@
+body {
+	background: lightgreen;
+	width: 100vw;
+}
+
+body.done {
+	background: indianred;
+}
+
+h1 {
+	font-size: 20rem;
+	text-align: center;
+	font-family: "Factor A", Ubuntu, Helvetica, Arial, sans-serif !important;
+}
